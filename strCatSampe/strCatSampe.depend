@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491049019 source:c:\lingprogn\lingprogn\strcatsampe\main.c
+	<stdio.h>
+	<stdlib.h>
+

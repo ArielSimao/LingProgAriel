@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1487425946 source:c:\lingprogn\lingprogn\aula1802b\leitura.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488632852 source:c:\lingprogn\lingprogn\aula0403_exerc2\main.c
+	<stdio.h>
+	<stdlib.h>
+

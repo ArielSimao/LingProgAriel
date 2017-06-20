@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489837801 source:c:\lingprogn\lingprogn\lista01ex01\exe1.c
+	<stdio.h>
+	<stdlib.h>
+
