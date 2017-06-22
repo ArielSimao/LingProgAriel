@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1465427269 source:c:\users\user\desktop\fatec\programação c\extrutura_carrinho_compra\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1465427966 source:f:\extrutura_carrinho_compra\main.c
+	<stdio.h>
+	<stdlib.h>
+
